@@ -17,7 +17,6 @@ Saya memiliki minat pada bidang:
 ## 1. AI Chatbot Surat Desa
 Chatbot berbasis AI untuk mengotomatisasi pembuatan surat desa menggunakan Telegram, n8n, Google Sheets, dan Gotenberg.
 
-![AI Chatbot](images/workflow surat desa otomatis.png)
 ---
 
 ## 2. TikTok Automation
