@@ -15,22 +15,22 @@ Saya memiliki minat pada bidang:
 # 🚀 My Projects
 
 ## 1. AI Chatbot Surat Desa
-Sedang dikembangkan...
+Chatbot berbasis AI untuk mengotomatisasi pembuatan surat desa menggunakan Telegram, n8n, Google Sheets, dan Gotenberg.
 
 ---
 
 ## 2. TikTok Automation
-Sedang dikembangkan...
+Automasi upload video ke TikTok Studio menggunakan Puppeteer.
 
 ---
 
 ## 3. Wordpress Automation
-Sedang dikembangkan...
+Automasi upload berita otomatis dengan n8n.
 
 ---
 
 ## 4. Blender Product Visualization
-Sedang dikembangkan...
+Pemodelan dan visualisasi produk 3D menggunakan Blender.
 
 ---
 
