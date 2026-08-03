@@ -46,6 +46,6 @@ Sedang dikembangkan...
 
 Email : arifzalfi@gmail.com
 
-LinkedIn : Arif zalfi
+LinkedIn : www.linkedin.com/in/arifzalfi
 
 GitHub : https://github.com/zalfi-net
