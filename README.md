@@ -48,4 +48,4 @@ Email : arifzalfi@gmail.com
 
 LinkedIn : Arif zalfi
 
-GitHub : zalfi-net
+GitHub : https://github.com/zalfi-net
